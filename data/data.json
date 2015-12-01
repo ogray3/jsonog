@@ -1,0 +1,29 @@
+{
+  "slides": [
+    {
+      "title": "Step One",
+      "description": "Get yo supplies!",
+      "image": "img/unocopy.jpg"
+    },
+    {
+      "title": "Step Two",
+      "description": "Spread dat ish with your knife",
+      "image": "img/step222copy.jpg"
+    },
+    {
+      "title": "Step Three",
+      "description": "Spread yo jelly on da otha piece",
+      "image": "img/stepthreecopy.jpg"
+    },
+    {
+      "title": "Step Four",
+      "description": "Smash your two pieces together, get dat love flowing",
+      "image": "img/stepfourcopy.jpg"
+    },
+    {
+      "title": "Step Five",
+      "description": "NOW ENJOY DAT ISH!",
+      "image": "img/stepfivecopy.jpg"
+    }
+  ]
+}
